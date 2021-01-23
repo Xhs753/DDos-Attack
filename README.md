@@ -1,5 +1,5 @@
 ### What Is A DDos-Attack
-This is page by Ha3MrX
+This is page form Ha3MrX
 
 
 ### A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable 
